@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "flutter",
+      "count": 2,
+      "versions": {
+        "0.0.0": 2
+      }
+    },
+    {
+      "name": "cupertino_icons",
+      "count": 2,
+      "versions": {
+        "^0.1.2": 2
+      }
+    },
+    {
+      "name": "flutter_svg",
+      "count": 1,
+      "versions": {
+        "0.17.3+1": 1
+      }
+    },
+    {
+      "name": "flutter_test",
+      "count": 2,
+      "versions": {
+        "0.0.0": 2
+      }
+    },
+    {
+      "name": "path_drawing",
+      "count": 1,
+      "versions": {
+        "^0.4.1": 1
+      }
+    }
+  ]
+}
